@@ -14,7 +14,7 @@
   }],
   "dependencies": {
     "added_product": "https://github.com/insales-components/added_product",
-    "modals": "https://github.com/insales-components/modals",
+    "modal": "https://github.com/insales-components/modal",
     "snippet": "https://github.com/insales-components/snippet"
   }
 }
